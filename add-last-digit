@@ -1,0 +1,9 @@
+#!/usr/bin/python
+
+a=233 #1stnumber 
+b=232 #2ndnumber 
+
+c = a%10
+d = b%10
+
+print(c+d)
